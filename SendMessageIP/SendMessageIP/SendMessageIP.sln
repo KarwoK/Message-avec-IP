@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessageIP", "SendMessageIP\SendMessageIP.csproj", "{0E880CAB-8F1A-4A7A-A8CE-9883B828A730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{7459B27C-CD84-4432-BFAD-11333D754171}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E880CAB-8F1A-4A7A-A8CE-9883B828A730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E880CAB-8F1A-4A7A-A8CE-9883B828A730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E880CAB-8F1A-4A7A-A8CE-9883B828A730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E880CAB-8F1A-4A7A-A8CE-9883B828A730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7459B27C-CD84-4432-BFAD-11333D754171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7459B27C-CD84-4432-BFAD-11333D754171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7459B27C-CD84-4432-BFAD-11333D754171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7459B27C-CD84-4432-BFAD-11333D754171}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A55E9F0E-4A2E-4949-A53E-106C2ECDC88A}
+	EndGlobalSection
+EndGlobal

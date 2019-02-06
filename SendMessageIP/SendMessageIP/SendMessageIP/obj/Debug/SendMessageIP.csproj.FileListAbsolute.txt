@@ -1,0 +1,12 @@
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\bin\Debug\SendMessageIP.exe.config
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\bin\Debug\SendMessageIP.exe
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\bin\Debug\SendMessageIP.pdb
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.csprojAssemblyReference.cache
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.Form1.resources
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.Properties.Resources.resources
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.csproj.GenerateResource.cache
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.csproj.CoreCompileInputs.cache
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.exe
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.pdb
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\bin\Debug\SimpleTCP.dll
+C:\Users\hufio\source\repos\SendMessageIP\SendMessageIP\obj\Debug\SendMessageIP.csproj.CopyComplete

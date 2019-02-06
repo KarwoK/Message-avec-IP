@@ -14,3 +14,6 @@ Donc pour commencer cliquée sur le bouton "start" de l'application serveur, pui
 
 
 Dans le premier cadre de l'application SendMessage vous pouvez écrire le message puis appuyer sur "Send", le message que vous avez écrit vous sera renvoyer après 3 seconde
+
+
+J'ai aussi mit le code de chaqu'une des application.
